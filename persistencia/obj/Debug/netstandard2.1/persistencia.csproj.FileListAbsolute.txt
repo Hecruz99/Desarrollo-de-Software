@@ -1,0 +1,12 @@
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\obj\Debug\netstandard2.1\persistencia.csprojAssemblyReference.cache
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfoInputs.cache
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfo.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\bin\Debug\netstandard2.1\persistencia.dll
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\bin\Debug\netstandard2.1\persistencia.pdb
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\obj\Debug\netstandard2.1\persistencia.dll
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\DesarrolloScrum\persistencia\obj\Debug\netstandard2.1\persistencia.pdb
