@@ -20,7 +20,7 @@ namespace Aplicacion
                     console.WriteLine("El nombre es: " + persona.Nombre);
                     console.WriteLine("Los Apellidos son: " + persona.Apellidos);
                     console.WriteLine("La Edad es: " + persona.Edad);
-                    console.WriteLine(".....................");
+                    console.WriteLine("................");
 
                 }
 
