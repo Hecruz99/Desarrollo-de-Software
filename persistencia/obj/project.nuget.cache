@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kc1u2BvL6/9GBZWwgwZuGRoMWc3Abav8MFhjoYEqHI7HWvT//qXxlVO2n75QJKmmZIf65P4ktthDrFRA2IEEOA==",
+  "dgSpecHash": "zcH0AOL0S5GfV10N4kr2K+84MpA3QH8ViNAhKbg9Y/UBEZtB0xL89oDMsEFdbdAcXZQ0mK5qM/0SfLCpCX/qFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\DesarrolloScrum\\persistencia\\persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hector.Cruz\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hector.Cruz\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

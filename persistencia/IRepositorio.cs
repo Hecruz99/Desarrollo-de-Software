@@ -6,12 +6,13 @@ using Dominio;
 
 namespace persistencia
 {
-    public class IRepositorio
+    public interface IRepositorio
     {
+      
       Persona Add(Persona persona);  
-      IEnumerable<persona> GetAll();
+      IEnumerable<Persona> GetAll();
       Persona Update(Persona persona);
-      void Delete(int idPersona);
+      void Delete(int IdPersona);
       Persona Get(int IdPersona);
       
     }
