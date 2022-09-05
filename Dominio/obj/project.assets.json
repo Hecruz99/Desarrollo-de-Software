@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sergio\\.nuget\\packages\\": {}
+    "C:\\Users\\Hector.Cruz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
-      "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\obj\\",
+      "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
+      "packagesPath": "C:\\Users\\Hector.Cruz\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hector.Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
