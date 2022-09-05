@@ -22,3 +22,15 @@ C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\persistencia\bin\Debug\netstandard2.1\Dominio.dll
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\persistencia\bin\Debug\netstandard2.1\Dominio.pdb
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\bin\Debug\netstandard2.1\persistencia.deps.json
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\bin\Debug\netstandard2.1\persistencia.dll
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\bin\Debug\netstandard2.1\persistencia.pdb
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\bin\Debug\netstandard2.1\Dominio.dll
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.csprojAssemblyReference.cache
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfoInputs.cache
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.AssemblyInfo.cs
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CoreCompileInputs.cache
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.csproj.CopyComplete
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.dll
+Z:\SQL2019\Proyecto\Desarrollo-de-Software\persistencia\obj\Debug\netstandard2.1\persistencia.pdb

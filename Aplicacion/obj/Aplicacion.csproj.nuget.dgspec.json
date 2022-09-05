@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\aplicacion\\Aplicacion.csproj": {}
+    "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Aplicacion\\Aplicacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\aplicacion\\Aplicacion.csproj": {
+    "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Aplicacion\\Aplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\aplicacion\\Aplicacion.csproj",
+        "projectUniqueName": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Aplicacion\\Aplicacion.csproj",
         "projectName": "Aplicacion",
-        "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\aplicacion\\Aplicacion.csproj",
-        "packagesPath": "C:\\Users\\Hector.Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\aplicacion\\obj\\",
+        "projectPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Aplicacion\\Aplicacion.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Aplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hector.Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -25,11 +25,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj"
+              "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
+                "projectPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj"
               },
-              "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj": {
-                "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj"
+              "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\persistencia\\persistencia.csproj": {
+                "projectPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\persistencia\\persistencia.csproj"
               }
             }
           }
@@ -69,17 +69,17 @@
         }
       }
     },
-    "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
+    "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Hector.Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\obj\\",
+        "projectPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hector.Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -122,17 +122,17 @@
         }
       }
     },
-    "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj": {
+    "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\persistencia\\persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj",
+        "projectUniqueName": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\persistencia\\persistencia.csproj",
         "projectName": "persistencia",
-        "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj",
-        "packagesPath": "C:\\Users\\Hector.Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\obj\\",
+        "projectPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\persistencia\\persistencia.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Hector.Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -143,8 +143,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj"
+              "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
+                "projectPath": "Z:\\SQL2019\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj"
               }
             }
           }
