@@ -10,7 +10,11 @@ namespace Aplicacion
         
             static void Main(string[] args)
             {
-              adicionarPersona();  
+                Persona persona = new Persona();
+                persona.Nombre = "Sergio Sanchez";
+
+                Console.WriteLine("El nombre del autor es "+ persona.Nombre);
+                adicionarPersona();  
             }
 
             private static void obtenerPersonas(){ 
