@@ -11,6 +11,8 @@ namespace Aplicacion
             static void Main(string[] args)
             {
               adicionarPersona();  
+              obtenerPersonas();
+              //eliminarPersona();
             }
 
             private static void obtenerPersonas(){ 
@@ -35,9 +37,9 @@ namespace Aplicacion
 
             private static void adicionarPersona(){ 
                 Persona p = new Persona();
-                p.Nombre = "Jonathan";
-                p.Apellidos ="Rodriguez Ramirez";
-                p.Edad = "30";
+                p.Nombre = "Ana Maria";
+                p.Apellidos ="Cabrera";
+                p.Edad = "45";
                 _repo.Add(p);
                 Console.WriteLine(":D");
             }

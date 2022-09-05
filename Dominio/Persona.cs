@@ -12,6 +12,10 @@ namespace Dominio
 
         public string Edad {get; set;}
 
-        
+        public int Telefono {get; set;}
+
+        public string Direccion {get; set;}
+
+        public int Cedula {get; set;}
     }
 }

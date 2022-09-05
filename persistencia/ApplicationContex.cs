@@ -11,6 +11,14 @@ namespace persistencia
 
         public DbSet<Carro> carros {get; set;}
 
+        public DbSet<Cliente> clientes {get; set;}
+
+        public DbSet<Tecnico> tecnicos {get; set;}
+
+        public DbSet<Automovil> automoviles {get; set;}
+
+        public DbSet<Camioneta> camionetas {get; set;}
+
         public ApplicationContext(){}
 
         public ApplicationContext(DbContextOptions<ApplicationContext> options)
