@@ -23,7 +23,10 @@ namespace Aplicacion
                     Console.WriteLine("El nombre es: " + persona.Nombre);
                     Console.WriteLine("Los Apellidos son: " + persona.Apellidos);
                     Console.WriteLine("La Edad es: " + persona.Edad);
-                    Console.WriteLine(".......................");
+                    Console.WriteLine("El Telefono es: " + persona.Telefono);
+                    Console.WriteLine("La Direccion es: " + persona.Direccion);
+                    Console.WriteLine("La Cedula es: " + persona.Cedula);
+                    Console.WriteLine("..................................");
 
                 }
 
@@ -37,9 +40,12 @@ namespace Aplicacion
 
             private static void adicionarPersona(){ 
                 Persona p = new Persona();
-                p.Nombre = "Ana Maria";
-                p.Apellidos ="Cabrera";
+                p.Nombre = "Andres ";
+                p.Apellidos ="Cortez Pulido";
                 p.Edad = "45";
+                p.Telefono = 2435467;
+                p.Direccion = "Carrera 78 # 102 89";
+                p.Cedula = 80765432;
                 _repo.Add(p);
                 Console.WriteLine(":D");
             }
