@@ -40,12 +40,12 @@ namespace Aplicacion
 
             private static void adicionarPersona(){ 
                 Persona p = new Persona();
-                p.Nombre = "Andres ";
-                p.Apellidos ="Cortez Pulido";
-                p.Edad = "45";
+                p.Nombre = "William Alberto ";
+                p.Apellidos ="Cubillos Sanchez";
+                p.Edad = "25";
                 p.Telefono = 2435467;
-                p.Direccion = "Carrera 78 # 102 89";
-                p.Cedula = 80765432;
+                p.Direccion = "calle 78 98 89";
+                p.Cedula = 807768762;
                 _repo.Add(p);
                 Console.WriteLine(":D");
             }
