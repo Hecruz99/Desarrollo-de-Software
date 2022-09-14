@@ -82,3 +82,7 @@ C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\list.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Create.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Delete.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Details.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Update.cshtml.g.cs

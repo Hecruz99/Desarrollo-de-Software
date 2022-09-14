@@ -5,40 +5,40 @@
 <div class="justify-content-center text-center">
 
     
-<h1>Listado Personas Registradas</h1>
+<h1>Listado Carros Registrados</h1>
 <br>
 </div>
 <div>
     <div>
-        <a asp-page="Create"> Crear Una Nueva Persona</a>
+        <a asp-page="Create"> Crear Un Nuevo Carro</a>
         <i class="fa-sharp fa-solid fa-plus"></i>
     </div>
     <br>
     <table class="table table-dark">
         <tr>
             <th>Id</th>
-            <th>Nombres</th>
-            <th>Apellidos</th>
-            <th>Edad</th>
-            <th>Cedula</th>
+            <th>Placa</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Color</th>
             <th>Detalle</th>
             <th>Eliminar</th>
             <th>Actualizar</th>
         </tr>
-        @foreach(var persona in Model.Personas){
+        @foreach(var Carro in Model.Carros){
           <tr>
-            <td>@persona.Id</td>
-            <td>@persona.Nombre</td>
-            <td>@persona.Apellidos</td>
-            <td>@persona.Edad</td>
-            <td>@persona.Cedula</td>
+            <td>@Carro.Id</td>
+            <td>@Carro.Placa</td>
+            <td>@Carro.Marca</td>
+            <td>@Carro.Modelo</td>
+            <td>@Carro.Color</td>
             <td> 
-            <a class="btn btn-primary" asp-page="./Details" asp-route-id="@persona.Id">
+            <a class="btn btn-primary" asp-page="./Details">
             <i class="fa-sharp fa-solid fa-list"></i>
             </a>
             </td>
             <td> 
-            <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@persona.Id">
+            <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@Carro.Id">
             <i class="fa-sharp fa-solid fa-trash"></i>
             </a>
             </td>
