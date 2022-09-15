@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace MyApp.Namespace
 {
-    public class DetailsModel : PageModel
+    public class DetailsCarModel : PageModel
     {
         public void OnGet()
         {

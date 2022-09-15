@@ -9,15 +9,15 @@ using Dominio;
 
 namespace MyApp.Namespace
 {
-    public class CreateModel : PageModel
+    public class CreateCarModel : PageModel
     {
-        private readonly IRepositorio _repo;
+        private readonly IRepositorioCarro _repo;
         public Carro Carro { get; set;}
 
-        public CreateModel(IRepositorio repositorio)
+        public CreateCarModel(IRepositorioCarro RepositorioCarro)
         
         {
-            _repo = repositorio;
+            _repo = RepositorioCarro;
         }
 
         public void OnGet()

@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace MyApp.Namespace
 {
-    public class UpdateModel : PageModel
+    public class UpdateCarModel : PageModel
     {
         public void OnGet()
         {

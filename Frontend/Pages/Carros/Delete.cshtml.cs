@@ -9,14 +9,14 @@ using persistencia;
 
 namespace MyApp.Namespace
 {
-    public class DeleteModel : PageModel
+    public class DeleteCarModel : PageModel
     {
 
-        private readonly IRepositorio _repo;
+        private readonly IRepositorioCarro _repo;
 
         public Carro Carro { get; set;}
 
-        public DeleteModel(IRepositorio repo)    
+        public DeleteCarModel(IRepositorioCarro repo)    
         {
             _repo = repo;
         }

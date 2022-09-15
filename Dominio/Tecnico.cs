@@ -17,5 +17,7 @@ namespace Dominio
 
         public string Consultar_Mantenimiento {get; set;}
 
+        public string Placa_Carro {get; set;}
+
     }
 }

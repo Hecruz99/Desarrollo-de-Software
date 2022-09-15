@@ -86,3 +86,8 @@ C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Delete.cshtml.g.cs
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Details.cshtml.g.cs
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Personas\Update.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Carros\Create.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Carros\Delete.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Carros\Details.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Carros\list.cshtml.g.cs
+C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Carros\Update.cshtml.g.cs

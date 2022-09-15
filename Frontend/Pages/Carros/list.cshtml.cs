@@ -10,17 +10,17 @@ using persistencia;
 
 namespace MyApp.Namespace
 {
-    public class listModel : PageModel
+    public class listCarModel : PageModel
     {
-        private readonly IRepositorio _repo;
+        private readonly IRepositorioCarro _repo;
         public IEnumerable<Carro> Carros {get; set; }
-        public listModel(IRepositorio Repositorio)
+        public listCarModel(IRepositorioCarro RepositorioCarro)
         {
-            _repo = Repositorio;
+            _repo = RepositorioCarro;
         }
         public void OnGet()
         {
-            Personas =  _repo.GetAll();            
+            Carros =  _repo.GetAll();            
         }
            
         }
