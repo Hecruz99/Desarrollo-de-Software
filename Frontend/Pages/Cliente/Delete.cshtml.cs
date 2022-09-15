@@ -9,16 +9,16 @@ using persistencia;
 
 namespace MyApp.Namespace
 {
-    public class DeleteCarModel : PageModel
+    public class DeleteClienteModel : PageModel
     {
 
-        private readonly IRepositorioCarro _repo;
+        private readonly IRepositorioCliente _repo;
 
-        public Carro Carro { get; set;}
+        public Cliente Cliente { get; set;}
 
-        public DeleteCarModel(IRepositorioCarro repo)    
+        public DeleteClienteModel(IRepositorioCliente repo)    
         {
-           _repo = repo;
+            _repo = repo;
         }
     
         public void OnGet(int id)
@@ -30,7 +30,7 @@ namespace MyApp.Namespace
         public  IActionResult OnPost(int id)
         {
             _repo.Delete(id);
-            return new RedirectToPageResult("/Carros/List");
+            return new RedirectToPageResult("/Cliente/List");
             
         }
     }

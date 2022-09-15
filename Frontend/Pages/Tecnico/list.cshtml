@@ -1,0 +1,56 @@
+﻿@page
+@model MyApp.Namespace.listTecnicoModel
+@{
+}
+<div class="justify-content-center text-center">
+
+    
+<h1>Listado Tecnicos Registrados</h1>
+<br>
+</div>
+<div>
+    <div>
+        <a asp-page="Create"> Crear Un Nuevo Tecnico</a>
+        <i class="fa-sharp fa-solid fa-plus"></i>
+    </div>
+    <br>
+    <table class="table table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Registar Mantenimiento</th>
+            <th>Realizar Mantenimiento</th>
+            <th>Instalar Repuestos</th>
+            <th>Consultar Mantenimiento</th>
+            <th>Placa Carro a Relizar Mantenimiento</th>
+            <th>Detalle</th>
+            <th>Eliminar</th>
+            <th>Actualizar</th>
+        </tr>
+        @foreach(var Tecnico in Model.Tecnicos){
+          <tr>
+            <td>@Tecnico.Id</td>
+            <td>@Tecnico.Registrar_Mantenimiento</td>
+            <td>@Tecnico.Realizar_Mantenimiento</td>
+            <td>@Tecnico.Instalar_Repuestos</td>
+            <td>@Tecnico.Consultar_Mantenimiento</td>
+            <td>@Tecnico.Placa_Carro</td>
+            <td> 
+            <a class="btn btn-primary" asp-page="./Details">
+            <i class="fa-sharp fa-solid fa-list"></i>
+            </a>
+            </td>
+            <td> 
+            <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@Tecnico.Id">
+            <i class="fa-sharp fa-solid fa-trash"></i>
+            </a>
+            </td>
+            <td> 
+            <a class="btn btn-primary" asp-page="./Update">
+            <i class="fa-solid fa-rotate"></i>
+            </a>
+            </td>
+            </tr>  
+        }
+    </table>
+</div>
+
