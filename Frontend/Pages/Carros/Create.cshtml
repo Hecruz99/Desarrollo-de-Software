@@ -29,7 +29,28 @@
             <label asp-for="Carro.Color" class="control -label"></label>
             <input asp-for="Carro.Color" class="form-control" />
             <span asp-validation-for="Carro.Color" class="text-danger"></span>
-        </div><br>
+        </div>
+        <div class="from group">
+            <label asp-for="Carro.Tipo" class="control -label"></label>
+            <input asp-for="Carro.Tipo" class="form-control" />
+            <span asp-validation-for="Carro.Tipo" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Carro.Cilindraje" class="control -label"></label>
+            <input asp-for="Carro.Cilindraje" class="form-control" />
+            <span asp-validation-for="Carro.Cilindraje" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Carro.Diagnostico" class="control -label"></label>
+            <select name="Carro.Diagnostico" id="Carro.Diagnostico">
+                <option value="Mantenimiento">Mantenimiento</option>
+                <option value="Reparacion">Reparacion</option>
+                <option value="Limpieza" >Limpieza</option>
+                <option value="Todas Las Anteriores">Todas Las Anteriores</option>
+            </select>
+            <span asp-validation-for="Carro.Diagnostico" class="text-danger"></span>
+        </div>
+        <br>
         <div class="from group">
             <input type="submit" value="Crear Carro" class="btn btn-primary" />
         </div>
