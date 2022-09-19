@@ -21,7 +21,7 @@
             <th>Realizar Mantenimiento</th>
             <th>Instalar Repuestos</th>
             <th>Consultar Mantenimiento</th>
-            <th>Placa Carro a Relizar Mantenimiento</th>
+            <th>Placa Carro</th>
             <th>Detalle</th>
             <th>Eliminar</th>
             <th>Actualizar</th>
@@ -35,7 +35,7 @@
             <td>@Tecnico.Consultar_Mantenimiento</td>
             <td>@Tecnico.Placa_Carro</td>
             <td> 
-            <a class="btn btn-primary" asp-page="./Details">
+            <a class="btn btn-primary" asp-page="./Details" asp-route-id="@Tecnico.Id">
             <i class="fa-sharp fa-solid fa-list"></i>
             </a>
             </td>

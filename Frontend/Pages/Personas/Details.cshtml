@@ -7,22 +7,35 @@
 </div>
 <hr>
 <div class="row">
-<dt class="col-ms-2">
-   @Html-DisplayNameFor(m => m.Persona.Nombre) 
-</dt>
-<dt class="col-ms-2">
-   @Html-DisplayNameFor(m => m.Persona.Apellidos) 
-</dt>
-<dt class="col-ms-2">
-   @Html-DisplayNameFor(m => m.Persona.Edad) 
-</dt>
-<dt class="col-ms-2">
-   @Html-DisplayNameFor(m => m.Persona.Telefono) 
-</dt>
-<dt class="col-ms-2">
-   @Html-DisplayNameFor(m => m.Persona.Direccion) 
-</dt>
-<dt class="col-ms-2">
-   @Html-DisplayNameFor(m => m.Persona.Cedula) 
-</dt>
-</div>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Persona.Nombre)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Persona.Nombre)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Persona.Apellidos)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Persona.Apellidos)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Persona.Edad)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Persona.Edad)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Persona.Telefono)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Persona.Telefono)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Persona.Direccion)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Persona.Direccion)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Persona.Cedula)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Persona.Cedula)
+        </dd>
+         </div>
+    <br>

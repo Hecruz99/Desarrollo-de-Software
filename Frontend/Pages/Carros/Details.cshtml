@@ -2,6 +2,44 @@
 @model MyApp.Namespace.DetailsCarModel
 @{
 }
-<div class="justify-content-center text-center">
-<h1>Detalles Carros</h1>
-</div>
+ <div class="justify-content-center text-center"></div>
+    <h1>Detalles Carros</h1>
+    <br><br>
+       <div class="row">
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Carro.Marca)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Carro.Marca)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Carro.Modelo)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Carro.Modelo)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Carro.Color)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Carro.Color)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Carro.Placa)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Carro.Placa)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Carro.Tipo)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Carro.Tipo)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Carro.Cilindraje)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Carro.Cilindraje)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Carro.Diagnostico)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Carro.Diagnostico)
+        </dd>
+    </div>
+    
