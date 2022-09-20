@@ -54,6 +54,7 @@ namespace persistencia
                 personaEncontrada.Edad = persona.Edad;
                 personaEncontrada.Apellidos = persona.Apellidos;
                 personaEncontrada.Cedula = persona.Cedula;
+                personaEncontrada.Tipo = persona.Tipo;
             }
             _applicationContext.SaveChanges();
             return personaEncontrada;
