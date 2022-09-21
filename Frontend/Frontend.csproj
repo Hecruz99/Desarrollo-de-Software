@@ -9,8 +9,11 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.9">
 =======
+=======
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0">

@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Update.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7ac4859de4d1508f51c8b8a91f8a098f252cd2c6"
+=======
+#pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Update.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7ac4859de4d1508f51c8b8a91f8a098f252cd2c6"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Update.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "7ac4859de4d1508f51c8b8a91f8a098f252cd2c6"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -23,7 +27,11 @@ namespace Frontend.Pages.Tecnico
 #nullable restore
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
