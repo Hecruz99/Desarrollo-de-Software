@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\DesarrolloScrum\\webapi\\webapi.csproj",
+      "projectUniqueName": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\webapi\\webapi.csproj",
       "projectName": "webapi",
-      "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\DesarrolloScrum\\webapi\\webapi.csproj",
+      "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\webapi\\webapi.csproj",
       "packagesPath": "C:\\Users\\Hector.Cruz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\DesarrolloScrum\\webapi\\obj\\",
+      "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\webapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hector.Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
       }
     }
   }

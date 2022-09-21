@@ -17,5 +17,7 @@ namespace Dominio
         public string Direccion {get; set;}
 
         public int Cedula {get; set;}
+
+        public string Tipo {get; set;}
     }
 }

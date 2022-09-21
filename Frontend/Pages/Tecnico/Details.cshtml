@@ -1,0 +1,36 @@
+﻿@page
+@model MyApp.Namespace.DetailsTecnicoModel
+@{
+}
+<div class="justify-content-center text-center">
+<h1>Detalles Tecnico</h1>
+</div>
+<hr>
+<div class="row">
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Tecnico.Registrar_Mantenimiento)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Tecnico.Registrar_Mantenimiento)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Tecnico.Realizar_Mantenimiento)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Tecnico.Realizar_Mantenimiento)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Tecnico.Instalar_Repuestos)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Tecnico.Instalar_Repuestos)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Tecnico.Consultar_Mantenimiento)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Tecnico.Consultar_Mantenimiento)
+        </dd>
+        <dt class="col-md-4">
+            @Html.DisplayNameFor(m => m.Tecnico.Placa_Carro)</dt>
+        <dd class="col-md-10">
+            @Html.DisplayFor(m => m.Tecnico.Placa_Carro)
+        </dd>
+        </div>
+    <br>

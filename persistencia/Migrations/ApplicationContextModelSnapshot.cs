@@ -18,60 +18,6 @@ namespace persistencia.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.0");
 
-            modelBuilder.Entity("Dominio.Automovil", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .UseIdentityColumn();
-
-                    b.Property<string>("Cilindraje")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Diagnostico")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Marca")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Modelo")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Placa")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("automoviles");
-                });
-
-            modelBuilder.Entity("Dominio.Camioneta", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .UseIdentityColumn();
-
-                    b.Property<string>("Cilindraje")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Diagnostico")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Marca")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Modelo")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Placa")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("camionetas");
-                });
-
             modelBuilder.Entity("Dominio.Carro", b =>
                 {
                     b.Property<int>("Id")
@@ -79,13 +25,25 @@ namespace persistencia.Migrations
                         .HasColumnType("int")
                         .UseIdentityColumn();
 
+                    b.Property<string>("Cilindraje")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Color")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Diagnostico")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Marca")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Modelo")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Placa")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Tipo")
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -155,6 +113,9 @@ namespace persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Instalar_Repuestos")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Placa_Carro")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Realizar_Mantenimiento")

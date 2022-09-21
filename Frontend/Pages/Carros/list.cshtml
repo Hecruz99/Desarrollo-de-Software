@@ -1,0 +1,54 @@
+﻿@page
+@model MyApp.Namespace.listCarModel
+@{
+}
+<div class="justify-content-center text-center">
+
+    
+<h1>Listado Carros Registrados</h1>
+<br>
+</div>
+<div>
+    <div>
+        <a asp-page="Create"> Crear Un Nuevo Carro</a>
+        <i class="fa-sharp fa-solid fa-plus"></i>
+    </div>
+    <br>
+    <table class="table table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Placa</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Color</th>
+            <th>Detalle</th>
+            <th>Eliminar</th>
+            <th>Actualizar</th>
+        </tr>
+        @foreach(var Carro in Model.Carros){
+          <tr>
+            <td>@Carro.Id</td>
+            <td>@Carro.Placa</td>
+            <td>@Carro.Marca</td>
+            <td>@Carro.Modelo</td>
+            <td>@Carro.Color</td>
+            <td> 
+            <a class="btn btn-primary" asp-page="./Details" asp-route-id="@Carro.Id">
+            <i class="fa-sharp fa-solid fa-list"></i>
+            </a>
+            </td>
+            <td> 
+            <a class="btn btn-danger" asp-page="./Delete" asp-route-id="@Carro.Id">
+            <i class="fa-sharp fa-solid fa-trash"></i>
+            </a>
+            </td>
+            <td> 
+            <a class="btn btn-primary" asp-page="./Update">
+            <i class="fa-solid fa-rotate"></i>
+            </a>
+            </td>
+            </tr>  
+        }
+    </table>
+</div>
+

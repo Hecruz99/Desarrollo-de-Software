@@ -1,13 +1,16 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+   
     <meta charset="utf-8" />
-    <body style="background-color:#E6E9E9">
+    @*<body style="background-color:#E6E9E9">*@
+    <body  style="background-image:url('https://alianzaautomotriz.com/wp-content/uploads/2022/05/TipCNT-770x433.jpg'); background-repeat:no-repeat; background-size:cover;">
     </body>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Frontend</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
+    <script src="https://kit.fontawesome.com/c0ca41cc2f.js" crossorigin="anonymous"></script>
 </head>
 <body>
     <header>
@@ -24,10 +27,16 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Mantenimiento">Mantenimientos</a>
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Tecnicos/list">Gestion Tecnicos</a>
                         </li>    
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Personas/list">Gestion Personas</a>    
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Carros/list">Gestion Automoviles</a>    
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-page="/Tecnico/list">Mantenimientos</a>    
                         </li>
                     </ul>
                 </div>
