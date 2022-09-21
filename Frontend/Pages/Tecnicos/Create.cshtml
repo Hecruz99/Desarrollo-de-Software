@@ -3,7 +3,7 @@
 @{
 }
 <div class="justify-content-center text-center">
-    <h1>Crear Personas</h1>
+    <h1>Crear Técnico</h1>
 </div>
 <br>
 <div class="row">
@@ -42,7 +42,7 @@
         </div>
         <div class="from group">
             <label asp-for="Persona.Tipo" class="control -label"></label>
-            <input asp-for="Persona.Tipo" class="form-control" />
+            <input asp-for="Persona.Tipo" class="form-control" readonly="True" value = "T"/>
             <span asp-validation-for="Persona.Tipo" class="text-danger"></span>
         </div><br>
         <div class="from group">

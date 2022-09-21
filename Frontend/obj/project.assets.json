@@ -475,12 +475,12 @@
           "lib/netstandard2.0/_._": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Design/5.0.0": {
+      "Microsoft.EntityFrameworkCore.Design/5.0.9": {
         "type": "package",
         "dependencies": {
           "Humanizer.Core": "2.8.26",
           "Microsoft.CSharp": "4.7.0",
-          "Microsoft.EntityFrameworkCore.Relational": "5.0.0"
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.9"
         },
         "compile": {
           "lib/netstandard2.1/_._": {}
@@ -3349,10 +3349,10 @@
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Design/5.0.0": {
-      "sha512": "kyd66aJDTZjpo4awTpJb6BOVGnhS/pZgD3O2JH1A9QhtE+0kqEVXJLpNN9CPfbKWERipXAEUyUadPHNclZCc3g==",
+    "Microsoft.EntityFrameworkCore.Design/5.0.9": {
+      "sha512": "eNf6vkQAdVkYMEADUrXTPtlgxw7EwkbU8jyaOEdz3J/3JFz2yzdVIwJg66RNMuoqDrktAG1bcR64YEys6DXVFw==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.design/5.0.0",
+      "path": "microsoft.entityframeworkcore.design/5.0.9",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -3360,7 +3360,7 @@
         "build/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.props",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll",
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.xml",
-        "microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
+        "microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.design.nuspec"
       ]
     },
@@ -8935,7 +8935,7 @@
       "Dominio >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.9",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.0",
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.9",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.0",
       "persistencia >= 1.0.0"
@@ -8995,7 +8995,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[5.0.0, )"
+            "version": "[5.0.9, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",

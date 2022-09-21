@@ -287,3 +287,11 @@ C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\net
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Delete.cshtml.g.cs
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Details.cshtml.g.cs
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Update.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
