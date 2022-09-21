@@ -31,6 +31,7 @@ namespace Frontend
             services.AddScoped<IRepositorioCarro,RepositorioCarro>();
             services.AddScoped<IRepositorioCliente,RepositorioCliente>();
             services.AddScoped<IRepositorioTecnico,RepositorioTecnico>();
+            services.AddControllersWithViews();
             services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(
                 Configuration.GetConnectionString("DefaultConnection")
             ));
@@ -54,6 +55,7 @@ namespace Frontend
             app.UseStaticFiles();
 
             app.UseRouting();
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
