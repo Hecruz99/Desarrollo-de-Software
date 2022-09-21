@@ -8938,6 +8938,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
 =======
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
@@ -8948,6 +8949,9 @@
 =======
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+      "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.9",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.0",
       "persistencia >= 1.0.0"
@@ -8959,6 +8963,7 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8988,6 +8993,13 @@
       "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+      "projectUniqueName": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
+      "projectName": "Frontend",
+      "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
+      "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -9032,6 +9044,7 @@
             "suppressParent": "All",
             "target": "Package",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "version": "[5.0.9, )"
 =======
             "version": "[5.0.0, )"
@@ -9042,6 +9055,9 @@
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+            "version": "[5.0.9, )"
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",

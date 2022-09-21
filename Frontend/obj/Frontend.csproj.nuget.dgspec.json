@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj": {}
 =======
     "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {}
@@ -14,6 +15,9 @@
 =======
     "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {}
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+    "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {}
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
   },
   "projects": {
     "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
@@ -72,6 +76,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -110,6 +115,16 @@
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+    "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
+        "projectName": "Frontend",
+        "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -154,6 +169,7 @@
               "suppressParent": "All",
               "target": "Package",
 <<<<<<< HEAD
+<<<<<<< HEAD
               "version": "[5.0.9, )"
 =======
               "version": "[5.0.0, )"
@@ -164,6 +180,9 @@
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+              "version": "[5.0.9, )"
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "qGTMcODmH91Kh7sii72C1s1CpVh/07b7YOcpxiYpw/ur9EY8uTyw2gAJa/sKy/qWnCwwIhsQUISUIpAGgUeZ9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj",
@@ -188,6 +189,12 @@
   "projectFilePath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
   "expectedPackageFiles": [
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+  "dgSpecHash": "t8cDsLNEE1uO+p9RJmB6PqF/NGjZsDSL2BdqA3BT0xSBXTZEG3R38mUAWdysg+/RFWKwuqedZfQtN8zvNXqdNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
+  "expectedPackageFiles": [
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
     "C:\\Users\\Sergio\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.9\\microsoft.aspnetcore.cryptography.internal.5.0.9.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.9\\microsoft.aspnetcore.cryptography.keyderivation.5.0.9.nupkg.sha512",
@@ -209,7 +216,11 @@
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
+<<<<<<< HEAD
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0\\microsoft.entityframeworkcore.design.5.0.0.nupkg.sha512",
+=======
+    "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.9\\microsoft.entityframeworkcore.design.5.0.9.nupkg.sha512",
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.9\\microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.9\\microsoft.entityframeworkcore.sqlserver.5.0.9.nupkg.sha512",
     "C:\\Users\\Sergio\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
@@ -354,11 +365,14 @@
     "C:\\Users\\Sergio\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
   ],
   "logs": []
 }

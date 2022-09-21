@@ -102,6 +102,7 @@ C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\bin\Debug\netcoreapp3.1\Frontend.StaticWebAssets.xml
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\Frontend\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
@@ -197,6 +198,8 @@ C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -387,8 +390,19 @@ C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\net
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnicos\Update.cshtml.g.cs
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+>>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
