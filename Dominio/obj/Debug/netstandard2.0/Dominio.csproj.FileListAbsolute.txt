@@ -25,3 +25,12 @@ Z:\SQL2019\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Domi
 Z:\SQL2019\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
 Z:\SQL2019\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.dll
 Z:\SQL2019\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
