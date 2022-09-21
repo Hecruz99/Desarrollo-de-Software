@@ -50,10 +50,12 @@ namespace persistencia
             );
 
             if(tecnicoEncontrada !=null){
-                tecnicoEncontrada.Realizar_Mantenimiento = tecnico.Registrar_Mantenimiento;
-                tecnicoEncontrada.Instalar_Repuestos= tecnico.Instalar_Repuestos;
-                tecnicoEncontrada.Consultar_Mantenimiento = tecnico.Consultar_Mantenimiento;
-                tecnicoEncontrada.Placa_Carro = tecnico.Placa_Carro;
+                tecnicoEncontrada.Nombre_Tec = tecnico.Nombre_Tec;
+                tecnicoEncontrada.Rev_filtroAire = tecnico.Rev_filtroAire;
+                tecnicoEncontrada.Rev_filtroGas = tecnico.Rev_filtroGas;
+                tecnicoEncontrada.Rev_aceite = tecnico.Rev_aceite;
+                tecnicoEncontrada.Cam_Repuesto = tecnico.Cam_Repuesto;
+                tecnicoEncontrada.Descripcion = tecnico.Descripcion;
             }
             _applicationContext.SaveChanges();
             return tecnicoEncontrada;

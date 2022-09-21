@@ -389,3 +389,4 @@ C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\net
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Tecnico\Create.cshtml.g.cs

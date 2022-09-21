@@ -9,13 +9,17 @@ namespace Dominio
     {
         public int Id {get; set;}
 
-        public string Registrar_Mantenimiento {get; set;}
+        public string Nombre_Tec {get; set;}
 
-        public string Realizar_Mantenimiento {get; set;}
+        public string Rev_filtroAire {get; set;}
 
-        public string Instalar_Repuestos {get; set;}
+        public string Rev_filtroGas {get; set;}
 
-        public string Consultar_Mantenimiento {get; set;}
+        public string Rev_aceite {get; set;}
+
+        public string Cam_Repuesto {get; set;}
+
+        public string Descripcion {get; set;}
 
         public string Placa_Carro {get; set;}
 

@@ -1,0 +1,53 @@
+﻿@page
+@model MyApp.Namespace.CreateTecnicoModel
+@{
+}
+<div class="justify-content-center text-center">
+    <h1>Crear Mantenimiento</h1>
+</div>
+<br>
+<div class="row">
+    <div class="col-md-5"></div>
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="from group">
+            <label asp-for="tecnico.Nombre_Tec" class="control -label"></label>
+            <input asp-for="tecnico.Nombre_Tec" class="form-control" />
+            <span asp-validation-for="tecnico.Nombre_Tec" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="tecnico.Rev_filtroAire" class="control -label"></label>
+            <input asp-for="tecnico.Rev_filtroAire" class="form-control" />
+            <span asp-validation-for="tecnico.Rev_filtroAire" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="tecnico.Rev_filtroGas" class="control -label"></label>
+            <input asp-for="tecnico.Rev_filtroGas" class="form-control" />
+            <span asp-validation-for="tecnico.Rev_filtroGas" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="tecnico.Rev_aceite" class="control -label"></label>
+            <input asp-for="tecnico.Rev_aceite" class="form-control" />
+            <span asp-validation-for="tecnico.Rev_aceite" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="tecnico.Cam_Repuesto" class="control -label"></label>
+            <input asp-for="tecnico.Cam_Repuesto" class="form-control" />
+            <span asp-validation-for="tecnico.Cam_Repuesto" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="tecnico.Descripcion" class="control -label"></label>
+            <input asp-for="tecnico.Descripcion" class="form-control" />
+            <span asp-validation-for="tecnico.Descripcion" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="tecnico.Placa_Carro" class="control -label"></label>
+            <input asp-for="tecnico.Placa_Carro" class="form-control"/>
+            <span asp-validation-for="tecnico.Placa_Carro" class="text-danger"></span>
+        </div><br>
+        <div class="from group">
+            <input type="submit" value="Crear Mantenimiento" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+</div>
