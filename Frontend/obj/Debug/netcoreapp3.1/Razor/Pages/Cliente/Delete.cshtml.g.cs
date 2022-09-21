@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "a8521104be1916adaedc2f882a2829abad5ed421"
+=======
+#pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "a8521104be1916adaedc2f882a2829abad5ed421"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "a8521104be1916adaedc2f882a2829abad5ed421"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -18,7 +22,11 @@ namespace Frontend.Pages.Cliente
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -67,7 +75,11 @@ using Frontend;
             WriteLiteral(" <div class=\"justify-content-center text-center\"></div>\r\n    <h1>Esta Seguro que Desea Eliminar este Cliente</h1>\r\n    <br><br>\r\n       <div class=\"row\">\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 10 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml"
+=======
+#line 10 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 10 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -79,7 +91,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 12 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml"
+=======
+#line 12 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 12 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -91,7 +107,11 @@ using Frontend;
             WriteLiteral("\r\n        </dd>\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 15 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml"
+=======
+#line 15 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 15 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -103,7 +123,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 17 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml"
+=======
+#line 17 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 17 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -115,7 +139,11 @@ using Frontend;
             WriteLiteral("\r\n        </dd>\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 20 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml"
+=======
+#line 20 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 20 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -127,7 +155,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 22 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml"
+=======
+#line 22 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 22 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -148,7 +180,11 @@ using Frontend;
                 __tagHelperExecutionContext.AddTagHelperAttribute(__tagHelperAttribute_0);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Cliente\Delete.cshtml"
+=======
+#line 29 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 29 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Cliente\Delete.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09

@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "104d0885856b7d6e5db6caccc5fb67482e2c3f9e"
+=======
+#pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "104d0885856b7d6e5db6caccc5fb67482e2c3f9e"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "104d0885856b7d6e5db6caccc5fb67482e2c3f9e"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -18,7 +22,11 @@ namespace Frontend.Pages.Carros
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -79,7 +87,11 @@ using Frontend;
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 12 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 12 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 12 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -105,7 +117,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationSummaryTagHelper.ValidationSumma
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 14 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 14 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 14 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -131,7 +147,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 15 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 15 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 15 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -157,7 +177,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 16 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 16 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 16 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -183,7 +207,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 19 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 19 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 19 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -209,7 +237,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 20 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 20 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 20 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -235,7 +267,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 21 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 21 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 21 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -261,7 +297,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 24 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 24 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 24 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -287,7 +327,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 25 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 25 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 25 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -313,7 +357,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 26 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 26 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 26 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -339,7 +387,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 29 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 29 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -365,7 +417,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 30 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 30 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 30 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -391,7 +447,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 31 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 31 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 31 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -417,7 +477,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 34 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 34 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 34 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -443,7 +507,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 35 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 35 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 35 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -469,7 +537,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 36 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 36 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 36 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -495,7 +567,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 39 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 39 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 39 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -521,7 +597,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 40 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 40 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 40 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -547,7 +627,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 41 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 41 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 41 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -573,7 +657,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper.For = ModelExpr
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 44 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 44 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 44 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -663,7 +751,11 @@ __Microsoft_AspNetCore_Mvc_TagHelpers_LabelTagHelper.For = ModelExpressionProvid
                 __tagHelperExecutionContext.Add(__Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper);
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 51 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Carros\Create.cshtml"
+=======
+#line 51 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 51 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Carros\Create.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09

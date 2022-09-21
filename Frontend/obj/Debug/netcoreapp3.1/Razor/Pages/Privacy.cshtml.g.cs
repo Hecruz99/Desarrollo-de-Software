@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Privacy.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "a0906750319c55d6ce48b545e707c28c2eb4094c"
+=======
+#pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Privacy.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "a0906750319c55d6ce48b545e707c28c2eb4094c"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Privacy.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "a0906750319c55d6ce48b545e707c28c2eb4094c"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -18,7 +22,11 @@ namespace Frontend.Pages
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -36,7 +44,11 @@ using Frontend;
         {
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 3 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Privacy.cshtml"
+=======
+#line 3 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Privacy.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 3 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Privacy.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -49,7 +61,11 @@ using Frontend;
             WriteLiteral("<h1>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 6 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Privacy.cshtml"
+=======
+#line 6 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Privacy.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 6 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Privacy.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09

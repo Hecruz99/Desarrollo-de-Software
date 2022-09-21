@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "1040d8aa80868f4c4e0a07fef1699486f504b417"
+=======
+#pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "1040d8aa80868f4c4e0a07fef1699486f504b417"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "1040d8aa80868f4c4e0a07fef1699486f504b417"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -18,7 +22,11 @@ namespace Frontend.Pages.Tecnico
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -96,7 +104,11 @@ using Frontend;
 ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 29 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 29 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 29 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -108,7 +120,11 @@ using Frontend;
             WriteLiteral("          <tr>\r\n            <td>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 31 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 31 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 31 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -120,7 +136,11 @@ using Frontend;
             WriteLiteral("</td>\r\n            <td>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 32 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 32 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 32 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -132,7 +152,11 @@ using Frontend;
             WriteLiteral("</td>\r\n            <td>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 33 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 33 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 33 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -144,7 +168,11 @@ using Frontend;
             WriteLiteral("</td>\r\n            <td>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 34 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 34 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 34 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -156,7 +184,11 @@ using Frontend;
             WriteLiteral("</td>\r\n            <td>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 35 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 35 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 35 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -168,7 +200,11 @@ using Frontend;
             WriteLiteral("</td>\r\n            <td>");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 36 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 36 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 36 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -194,7 +230,11 @@ using Frontend;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 38 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 38 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 38 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -230,7 +270,11 @@ using Frontend;
             BeginWriteTagHelperAttribute();
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 43 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 43 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 43 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -269,7 +313,11 @@ using Frontend;
             WriteLiteral("\r\n            </td>\r\n            </tr>  \r\n");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 53 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\list.cshtml"
+=======
+#line 53 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 53 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\list.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09

@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #pragma checksum "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "cce6e0136b8e69477090698270b9dec15e641625"
+=======
+#pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "cce6e0136b8e69477090698270b9dec15e641625"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #pragma checksum "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "cce6e0136b8e69477090698270b9dec15e641625"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -18,7 +22,11 @@ namespace Frontend.Pages.Tecnico
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 1 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\_ViewImports.cshtml"
+=======
+#line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 1 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\_ViewImports.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -37,7 +45,11 @@ using Frontend;
             WriteLiteral("<div class=\"justify-content-center text-center\">\r\n<h1>Detalles Tecnico</h1>\r\n</div>\r\n<hr>\r\n<div class=\"row\">\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 11 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 11 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 11 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -49,7 +61,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 13 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 13 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 13 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -61,7 +77,11 @@ using Frontend;
             WriteLiteral("\r\n        </dd>\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 16 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 16 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 16 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -73,7 +93,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 18 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 18 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 18 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -85,7 +109,11 @@ using Frontend;
             WriteLiteral("\r\n        </dd>\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 21 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 21 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 21 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -97,7 +125,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 23 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 23 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 23 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -109,7 +141,11 @@ using Frontend;
             WriteLiteral("\r\n        </dd>\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 26 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 26 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 26 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -121,7 +157,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 28 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 28 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 28 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -133,7 +173,11 @@ using Frontend;
             WriteLiteral("\r\n        </dd>\r\n        <dt class=\"col-md-4\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 31 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 31 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 31 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -145,7 +189,11 @@ using Frontend;
             WriteLiteral("</dt>\r\n        <dd class=\"col-md-10\">\r\n            ");
 #nullable restore
 <<<<<<< HEAD
+<<<<<<< HEAD
 #line 33 "C:\Users\Hector.Cruz\Desktop\Caldas\Programacion\Ciclo 3\Repositorio\Desarrollo-de-Software\frontend\Pages\Tecnico\Details.cshtml"
+=======
+#line 33 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
 #line 33 "C:\Users\Sergio\Documents\Proyecto\Desarrollo-de-Software\Frontend\Pages\Tecnico\Details.cshtml"
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09

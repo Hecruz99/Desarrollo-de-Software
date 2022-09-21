@@ -2,7 +2,11 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj": {}
+=======
+    "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {}
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
     "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {}
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
@@ -62,6 +66,7 @@
       }
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -70,6 +75,16 @@
         "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj",
         "packagesPath": "C:\\Users\\Hector.Cruz\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\obj\\",
+=======
+    "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
+        "projectName": "Frontend",
+        "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
+        "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
 =======
     "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj": {
       "version": "1.0.0",
@@ -127,6 +142,9 @@
               "version": "[5.0.9, )"
 =======
               "version": "[5.0.0, )"
+<<<<<<< HEAD
+>>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
+=======
 >>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
