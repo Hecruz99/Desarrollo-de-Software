@@ -27,23 +27,7 @@
           "Dominio": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.9",
           "Microsoft.AspNetCore.Identity.UI": "3.1.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
           "Microsoft.EntityFrameworkCore.Design": "5.0.9",
-=======
-          "Microsoft.EntityFrameworkCore.Design": "5.0.0",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-          "Microsoft.EntityFrameworkCore.Design": "5.0.0",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-          "Microsoft.EntityFrameworkCore.Design": "5.0.0",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-          "Microsoft.EntityFrameworkCore.Design": "5.0.9",
->>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.9",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.0",
           "persistencia": "1.0.0",
@@ -783,21 +767,7 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/5.0.9": {},
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Design/5.0.9": {
-=======
-=======
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-      "Microsoft.EntityFrameworkCore.Design/5.0.0": {
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-      "Microsoft.EntityFrameworkCore.Design/5.0.9": {
->>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
         "dependencies": {
           "Humanizer.Core": "2.8.26",
           "Microsoft.CSharp": "4.7.0",

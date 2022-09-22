@@ -8935,74 +8935,26 @@
       "Dominio >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.9",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.0",
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
-=======
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-      "Microsoft.EntityFrameworkCore.Design >= 5.0.9",
->>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.9",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.0",
       "persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sergio\\.nuget\\packages\\": {}
+    "C:\\Users\\Hector.Cruz\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj",
       "projectName": "Frontend",
       "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\Frontend.csproj",
       "packagesPath": "C:\\Users\\Hector.Cruz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\frontend\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "projectName": "Frontend",
-      "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-      "projectUniqueName": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "projectName": "Frontend",
-      "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-      "projectUniqueName": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "projectName": "Frontend",
-      "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-      "projectUniqueName": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "projectName": "Frontend",
-      "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\Frontend.csproj",
-      "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Frontend\\obj\\",
->>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sergio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Hector.Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -9013,11 +8965,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\Dominio\\Dominio.csproj"
+            "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\persistencia\\persistencia.csproj": {
-              "projectPath": "C:\\Users\\Sergio\\Documents\\Proyecto\\Desarrollo-de-Software\\persistencia\\persistencia.csproj"
+            "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj": {
+              "projectPath": "C:\\Users\\Hector.Cruz\\Desktop\\Caldas\\Programacion\\Ciclo 3\\Repositorio\\Desarrollo-de-Software\\persistencia\\persistencia.csproj"
             }
           }
         }
@@ -9043,21 +8995,7 @@
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-<<<<<<< HEAD
-<<<<<<< HEAD
             "version": "[5.0.9, )"
-=======
-            "version": "[5.0.0, )"
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
->>>>>>> 0f63c6e336de2251dd9b7904f98cd89322370a09
-=======
-            "version": "[5.0.9, )"
->>>>>>> d532f40062965f6c5cc16ece8afe9d2e05656968
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",

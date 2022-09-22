@@ -26,7 +26,6 @@
             <th>Actualizar</th>
         </tr>
         @foreach(var persona in Model.Personas){
-            if(persona.Tipo == "C"){
           <tr>
             <td>@persona.Id</td>
             <td>@persona.Nombre</td>
@@ -48,7 +47,7 @@
             <i class="fa-solid fa-rotate"></i>
             </a>
             </td>
-            </tr>  }
+            </tr>  
         }
     </table>
 </div>
