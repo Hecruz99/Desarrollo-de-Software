@@ -5,3 +5,51 @@
 <div class="justify-content-center text-center">
 <h1>Actualizar Personas</h1>
 </div>
+<br>
+<div class="row">
+    <div class="col-md-5"></div>
+    <form method="post">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="from group">
+            <label asp-for="Persona.Nombre" class="control -label"></label>
+            <input asp-for="Persona.Nombre" class="form-control" />
+            <span asp-validation-for="Persona.Nombre" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Persona.Apellidos" class="control -label"></label>
+            <input asp-for="Persona.Apellidos" class="form-control" />
+            <span asp-validation-for="Persona.Apellidos" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Persona.Edad" class="control -label"></label>
+            <input asp-for="Persona.Edad" class="form-control" />
+            <span asp-validation-for="Persona.Edad" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Persona.Telefono" class="control -label"></label>
+            <input asp-for="Persona.Telefono" class="form-control" />
+            <span asp-validation-for="Persona.Telefono" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Persona.Direccion" class="control -label"></label>
+            <input asp-for="Persona.Direccion" class="form-control" />
+            <span asp-validation-for="Persona.Direccion" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Persona.Cedula" class="control -label"></label>
+            <input asp-for="Persona.Cedula" class="form-control" />
+            <span asp-validation-for="Persona.Cedula" class="text-danger"></span>
+        </div>
+        <div class="from group">
+            <label asp-for="Persona.Tipo" class="control -label"></label>
+            <input asp-for="Persona.Tipo" class="form-control"  readonly="True" value = "C"/>
+            <span asp-validation-for="Persona.Tipo" class="text-danger"></span>
+        </div><br>
+        <input type="hidden" asp-for="Persona.Id"/>
+        <input type="hidden" asp-for="Persona"/>
+        <div class="from group">
+            <input type="submit" value="Actualizar Persona" class="btn btn-primary" asp-page="Update/OnPost"/>
+        </div>
+    </form>
+</div>
+</div>

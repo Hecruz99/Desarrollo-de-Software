@@ -48,8 +48,9 @@ namespace persistencia
             var personaEncontrada = _applicationContext.personas.FirstOrDefault(
                 p => p.Id == persona.Id
             );
-
+            Console.WriteLine(persona.Cedula + " " + persona.Edad);
             if(personaEncontrada !=null){
+                Console.WriteLine(persona.Id + " " + persona.Edad);
                 personaEncontrada.Nombre = persona.Nombre;
                 personaEncontrada.Edad = persona.Edad;
                 personaEncontrada.Apellidos = persona.Apellidos;
