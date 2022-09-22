@@ -26,7 +26,7 @@ namespace MyApp.Namespace
          public IActionResult OnPost(Persona persona)
         {
             _repo.Add(persona);
-            return new RedirectToPageResult("/Personas/List");
+            return new RedirectToPageResult("/Tecnicos/List");
         }
     }
 }

@@ -15,7 +15,7 @@ namespace persistencia
         }
 
         Tecnico IRepositorioTecnico.Add(Tecnico tecnico){
-            var new_tecnico = _applicationContext.tecnicos.Add(tecnico); //carros es la tabla, tecnico es el objeto
+            var new_tecnico = _applicationContext.tecnicos.Add(tecnico); //tecnicos es la tabla, tecnico es el objeto
             _applicationContext.SaveChanges();
             return new_tecnico.Entity;
         }

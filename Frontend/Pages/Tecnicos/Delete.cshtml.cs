@@ -30,7 +30,7 @@ namespace MyApp.Namespace
         public  IActionResult OnPost(int id)
         {
             _repo.Delete(id);
-            return new RedirectToPageResult("/Personas/List");
+            return new RedirectToPageResult("/Tecnicos/List");
             
         }
     }
